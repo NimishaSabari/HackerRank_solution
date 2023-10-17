@@ -22,7 +22,7 @@ Hello, World!
 
 '''
 
-#soltion
+#solution
 
 
 print("Hello, World!")
