@@ -1,1 +1,1 @@
-# HackerRank_sol
+# HackerRank_solution
